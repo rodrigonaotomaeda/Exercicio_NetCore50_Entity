@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeuTeste", "MeuTeste.csproj", "{108567DD-336F-413F-A55E-371725BC7332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_NetCore50_Entity", "Exercicio_NetCore50_Entity.csproj", "{108567DD-336F-413F-A55E-371725BC7332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

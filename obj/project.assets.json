@@ -1310,11 +1310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maeda\\dev\\GIT\\MeuTeste\\MeuTeste.csproj",
-      "projectName": "MeuTeste",
-      "projectPath": "C:\\Users\\Maeda\\dev\\GIT\\MeuTeste\\MeuTeste.csproj",
+      "projectUniqueName": "C:\\Users\\Maeda\\dev\\GIT\\Exercicio_NetCore50_Entity\\Exercicio_NetCore50_Entity.csproj",
+      "projectName": "Exercicio_NetCore50_Entity",
+      "projectPath": "C:\\Users\\Maeda\\dev\\GIT\\Exercicio_NetCore50_Entity\\Exercicio_NetCore50_Entity.csproj",
       "packagesPath": "C:\\Users\\Maeda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maeda\\dev\\GIT\\MeuTeste\\obj\\",
+      "outputPath": "C:\\Users\\Maeda\\dev\\GIT\\Exercicio_NetCore50_Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

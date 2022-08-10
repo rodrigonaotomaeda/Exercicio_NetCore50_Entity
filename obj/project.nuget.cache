@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vs3amnatNVwLYDTSEfbYYVLDuR6gSswaYn1bMDIcr/qyx9kWqoIq254cxASr43A4OIQslKWrfSRRqopF5hYGKg==",
+  "dgSpecHash": "BOmGCpUL17TTRR+GLhQJMOeyu1+nHtwfeTuGU96T3Em0FhJQEgdXwzLBhbpjHJWnnmx2ccc5Cmspno5DSp9TWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maeda\\dev\\GIT\\MeuTeste\\MeuTeste.csproj",
+  "projectFilePath": "C:\\Users\\Maeda\\dev\\GIT\\Exercicio_NetCore50_Entity\\Exercicio_NetCore50_Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maeda\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Maeda\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
